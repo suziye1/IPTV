@@ -126,7 +126,10 @@ http://2023.stream-link.org/live/926790469
 #EXTINF:-1 group-title="港澳台综合,#genre#",华视新闻
 http://2023.stream-link.org/live/215730961
 #EXTINF:-1 group-title="港澳台综合,#genre#",中天新闻
+http://103.68.63.37:8278/ctinews/playlist.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",中天新闻
 http://2023.stream-link.org/live/1552993665
+
 #EXTINF:-1 group-title="港澳台综合,#genre#",寰宇新闻台
 http://2023.stream-link.org/live/1212532853
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS新闻
