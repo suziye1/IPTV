@@ -37,5 +37,18 @@ http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 http://39.135.148.130:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台
 http://r.jdshipin.com/62WM7
-#EXTINF:-1 group-title="港澳台综合,#genre#",J2
-http://r.jdshipin.com/ndGgS
+#EXTINF:-1 group-title="港澳台综合,#genre#",明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 group-title="港澳台综合,#genre#",华丽台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 group-title="百视通8M,#genre#",都市剧场
+https://live.v1.mk/api/bestv.php?id=dsjc8m/8000000
+#EXTINF:-1 group-title="百视通8M,#genre#",动漫秀场
+https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
+#EXTINF:-1 group-title="百视通8M,#genre#",法治天地
+https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
+#EXTINF:-1 group-title="百视通8M,#genre#",金色学堂
+https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
+#EXTINF:-1 group-title="百视通8M,#genre#",魅力足球
+https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+
